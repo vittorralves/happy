@@ -5,9 +5,9 @@ Leve felicidade para o mundo. O **Happy** é uma plataforma que visa conectar pe
 Este projeto foi construído durante a terceira edição do evento Next Level Week da [Rocketseat](https://rocketseat.com.br/).
 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="./assets/1.png" width="1000px">
-
   <img alt="Happy Web" title="Happy Web" src="./assets/2.png" width="1000px">
+
+  <img alt="Happy Web" title="Happy Web" src="./assets/1.png" width="1000px">
 </p>
 
 ### 💻 Como executar o Happy?
