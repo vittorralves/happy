@@ -42,6 +42,7 @@ $ npm start
 ### 📱  Rodando o Happy mobile
 > Em breve...
 
+
 ###  🛠️ Tecnologias
 
 ### 📱 Mobile
